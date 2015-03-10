@@ -1,0 +1,1 @@
+['AIG','BAC','C','JPM','WFC','AGN','MRK','MYL','PFE']
